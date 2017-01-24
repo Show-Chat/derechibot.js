@@ -2,9 +2,9 @@
 // This code is licensed under the MIT license; see LICENSE.txt for details.
 
 global.nodebot_prefs = {
-    realname: 'Nodebot v0.8',
-    nickname: 'nodebot1337',
-    username: 'nodebot1337',
+    realname: 'derechibot.js running NodeBot',
+    nickname: 'derechibotjs',
+    username: 'derechibotjs',
     serverpass: null,
 
     /* NickServ details, case-insensitive.
