@@ -12,6 +12,9 @@
         "irc",
         "bot"
     ],
+    "scripts": {
+    "start": "node main.js"
+    },
     "dependencies": {
         "coffee-script": "~1.9.0",
         "goo.gl": "~0.1.2",
