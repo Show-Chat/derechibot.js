@@ -8,10 +8,6 @@ var util = require('util'),
     vm = require('vm'),
     repl = require('repl'),
     _ = require('lodash');
-// use port 3000 unless there exists a preconfigured port
-var port = process.env.PORT || 3000;
-
-app.listen(port);
 
 function uncacheModules() {
     // Clear the module cache
