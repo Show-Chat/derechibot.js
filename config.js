@@ -2,9 +2,9 @@
 // This code is licensed under the MIT license; see LICENSE.txt for details.
 
 global.nodebot_prefs = {
-    realname: 'derechibot.js running NodeBot',
-    nickname: 'derechibotjs',
-    username: 'derechibotjs',
+    realname: 'iLOG',
+    nickname: 'iLOG',
+    username: 'iLOG',
     serverpass: null,
 
     /* NickServ details, case-insensitive.
@@ -16,7 +16,7 @@ global.nodebot_prefs = {
     nickserv_password: 'password',
 
     command_prefix: '~',
-    server: 'irc.freenode.net',
+    server: 'irc.ilog.kiwichat.ml',
     port: 6667,
     secret: 'secret', /* password to become admin */
 
